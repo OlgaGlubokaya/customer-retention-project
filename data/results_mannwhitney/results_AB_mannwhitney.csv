@@ -1,0 +1,6 @@
+metric,U_stat,p_value,significant
+Feedback_for_parents,9952.0,0.0004,True
+Feedback_to_students,9657.0,0.0024,True
+Control_of_homework,9936.0,0.0005,True
+Control_of_potential_loss,10779.5,0.0,True
+Average_success,10258.5,0.0001,True
