@@ -2,9 +2,9 @@
 ## 📊 Project Overview
 
 ### About the Company:  
-**BrightMind School** is a fictionalized programming school (based on a real EdTech company I worked for).  The school provides coding education for children and teenagers, focusing on interactive classes and personalized mentorship. Classes at the school are held once a week. The academic year begins on August 1 and ends on July 31.
+**BrightMind School** is a fictionalized programming school (based on a real EdTech company I worked for). The school provides coding education for children and teenagers, focusing on interactive classes and personalized mentorship. Classes at the school are held once a week. The academic year begins on August 1 and ends on July 31.
 
-As a data analyst, I was responsible for tracking key metrics such as **reasons for students losing motivation**, **reasons for student dropout**, and **accordance of lesson structure with school standards**. Also, I developed strategies for working with teachers and searched for ways to improve the teaching process, provided personalized mentorship.
+As a data analyst, I was responsible for tracking key metrics such as **reasons for students losing motivation**, **reasons for student dropout**, and **accordance of lesson structure with school standards**, also for developing strategies for working with teachers and searching for ways to improve the teaching process, financial analysis of their work.
 
 ## 🎯 Goal
 
