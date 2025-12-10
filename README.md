@@ -112,7 +112,7 @@ To identify the main key factor driving customer churn and to estimate the impac
 ---
 
 ## 📈 Key Results
-**table 1 "Mann–Whitney U test - Сomparison of teacher categories Stable vs Unstable"**
+**table 1 "Mann–Whitney U test - Сomparison of teacher categories Stable vs Unstable per some years in the same group "best", "interquart", "bad" by quantity of student churn"**
 | Metrics                   | U-статистика | p-value | Significance | Insight |
 |---------------------------|--------------|---------|------------|--------|
 | Feedback_for_parents      | 9952.0       | 0.0004  | ✅ Yes      | Stable teachers communicate more systematically with parents. |
