@@ -1,5 +1,5 @@
 # Customer Churn Analysis & Retention Strategy
-This analysis outlines measures that **can reduce customer churn by a factor of 2.47** and generate **an additional 11 million UAH** in revenue, equivalent to a **40% increase in profit**. Please review the Python-based methods used to achieve these results. 🚀
+This analysis outlines measures that **can reduce customer churn by a factor of 2.47** and generate **an additional 10 million UAH** in revenue, equivalent to a **36% increase in profit**. Please review the Python-based methods used to achieve these results. 🚀
 ## 📊 Project Overview
 
 ### About the Company:  
